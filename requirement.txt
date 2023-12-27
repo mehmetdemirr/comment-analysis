@@ -1,0 +1,12 @@
+tkinter
+transformers
+matplotlib
+selenium
+reportlab
+pandas
+openpyxl
+langid
+langdetect
+numpy
+reportlab
+spacy

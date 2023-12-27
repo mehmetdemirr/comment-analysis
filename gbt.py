@@ -21,12 +21,12 @@ def normal(content):
     response=""
     try:
         response = g4f.ChatCompletion.create(
-        model=g4f.models.gpt_4,
+        model="gpt-3.5-turbo",
         messages=[{"role": "user", "content": f"{content}"}],
         )    # Alternative model setting
         # print(response)
     except Exception as e:
-        print(f"hata:{e}")
+        print(f"hata")
     return response
 
 

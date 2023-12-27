@@ -1,0 +1,27 @@
+- İşletmenize son 1 yıl içinde verilen yıldızıların aylara göre dağılımı // 1 yıl öncesi içinde olan metinlerin 12 ye bölünmesi
+
+- Şimdiye kadar almış olduğu tüm yorumların yıllara göre dağılımı // 1 yıl önce 2 yıl önce gibi gibi text lerin yıllara atanması
+
+- Son 1 yıl içinde yapılan tüm yorumların aylara göre sayısı // hafta ay ve yıl öncesi verilerin toplanıp 12 ye bölünmesi
+
+- Şimdiye kadar yapılan tüm yorumların yıllara göre sayısı // 2.madde ile aynı mantık zaten
+
+- Son 1 ay, Son 1 yıl ve şimdiye kadarki yapılan yorumların yıldız oranlarının pasta grafik şeklinde gösterimi/// grafik çıkarmak için biraz araştırmam gerek.
+
+- Son 1 ay, Son 1 yıl ve şimdiye kadarki yapılan yorumların yıldız oranlarının zamana göre yüzdesel değişimi // toplam atılan yıldız sayısı belirlenip 5 üzerinden kaç addet atıldıysa yıllara göre yazılıp tabloya işlenecek örnek 5 yıl once ortalam 3.7 gibi gibi...
+
+- Son 1 yıl içinde yapılan olumlu (5 ve 4 yıldız), nötr (3 yıldız) ve olumsuz (2 ve 1 yıldız) yorumların aylara göre yüzdesel değişimi // üstteki maddede çıkardığımız sonuc üzerinden döndürülecek bir formül
+
+- Şimdiye kadar yapılan tüm yorumların hangi dilde yapıldığı ve bunların sayısı // NLP ile çözülebilir
+
+- Son 1 yıl içinde yapılan yorumların dillere göre yüzdesel değişimi // NLP ile çözülebilir
+
+- En çok yorum yapılan 5 dilin pasta grafik şeklinde gösterimi // NLP ile çözülebilir lakin grafiğe dönüştürmeyi incelemek gerek
+
+
+- Negatif ya da pozitif yorumların tamamında kelime analizi yapılarak (NLP ile) müşterilerin en çok memnun olduğu yada en çok şikayetçi olduğu konuların tesbit edilmesi. // NLP
+
+- Negatif yorum yapan (2 ve 1 yıldız) müşterilerin en çok kullandığı kelimelerin analizi yapılarak görsel olarak gösterimi. // NLP
+
+
+// NLP dedigimiz işlem veri modellemesi yapılarak calıştırılan bir şey , sisteme bir model eğitiyorsun örnek (Bu ürün çok kullanışlı ve fiyatı da uygun) bu mesela iyi bir yorum lakin bu yorumu 100 farklı şekilde yazabilirsin harf ve kelimeleri değiştirerek sistemi bu yorumları verip eğitiyorsun bir nevi sonrasında elinde düzgün bir dilmodellemesi olmakta
